@@ -1,0 +1,4 @@
+﻿  source1.cpp
+C:\Users\81808\OneDrive\ドキュメント\competetive programming C++\competetive programming C++\source1.cpp(22,22): warning C4244: '引数': '__int64' から 'const unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\81808\OneDrive\ドキュメント\competetive programming C++\competetive programming C++\source1.cpp(31,11): warning C4244: '引数': '__int64' から 'const unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\81808\OneDrive\ドキュメント\competetive programming C++\competetive programming C++\source1.cpp(28): error C4700: 初期化されていないローカル変数 'i' が使用されます
